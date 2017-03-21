@@ -2,4 +2,6 @@
 adele.im family website
 
 # Test webserver
-`hugo server  --buildDrafts --theme=hugo-strata-theme`
+    $ cd themes
+    $ git clone https://github.com/badele/hugo-strata-theme.git
+    $ hugo server  --buildDrafts --theme=hugo-strata-theme
