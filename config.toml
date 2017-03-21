@@ -87,7 +87,7 @@ canonifyurls = true
 		facebook = "bruno.adele"
 		googleplus = "brunoadele"
 		flickr = "b_adele"
-		linkedin = "brunoadele"
+		linkedin = "https://www.linkedin.com/in/brunoadele"
 
 		copyright = [
 			"&copy; [Bruno Adelé](//bruno.adele.im)",
@@ -155,19 +155,19 @@ canonifyurls = true
 
 
         [[params.portfolio.gallery]]
-            link = "http://bruno.adele.im"
+            link = "http://adele.im"
             thumb = "thumb_steph.jpg"
             title = "Stephanie"
             description = "Née en 1976 à Beziers, j'ai grandi dans un petit village de l'Hérault de 200 habitants. Altruiste avant tout et passionnée par le service rendu au public. J'ai travaillé 11 ans au centre de documentation  d'un collège où j'ai pu partager ma passion des livres avec des adolescents. Je continue d'ailleurs de la transmettre, cette fois ci aux plus 'grands' car je travaille depuis 2014 dans les bibliothèques universitaires. Mes meilleurs souvenirs d'enfance : lorsque le bibliobus venait sur la place du village pour nous permettre de choisisr des livres pour la classe et nous faire découvrir la magie de la lecture."
 
         [[params.portfolio.gallery]]
-            link = "http://bruno.adele.im"
+            link = "http://adele.im"
             thumb = "thumb_lucas.jpg"
             title = "Lucas"
             description = "Né en 2003 à Montpellier. Prend le chemin du Geek, peut  être un peu trop ?"
 
         [[params.portfolio.gallery]]
-            link = "http://bruno.adele.im"
+            link = "http://adele.im"
             thumb = "thumb_lou.jpg"
             title = "Lou"
             description = "Né en 2007 à Montpellier. Cherche la moindre occasion pour s'évader"
